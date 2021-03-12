@@ -1,5 +1,3 @@
-# Friendly colab party
+#Newbies in bioinformatics
 
-#HEADER1
-## HEADER2
 
